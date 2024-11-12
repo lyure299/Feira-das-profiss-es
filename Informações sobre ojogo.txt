@@ -1,0 +1,20 @@
+BOM DIA, CARA ELIANE.
+
+AQUI ESTÃO AS DESCRIÇÕES SOBRE NOSSO JOGO:
+
+BY GUSTAVO, ANDRÉ, LUCAS YURE,
+LEVI YAGO, LUCAS SILVA
+
+   O jogo será em 2D com animações em pixelart, ele será feito de parkour
+e ação com minis batalhas entre a raposa(protagonista) e um caçador(principal vilão), onde a raposa está sendo
+caçada e teria que escapar dele, talvez com um final secreto 
+meio bisarro em que o jogo iria se inverter e a raposa seria o boss final.
+   Mas em ambos, o objetivo final seria fugir de um mundo virtial em que ela se prendeu quando estava fugindo.
+
+PARTICIPANTES:
+
+GUSTAVO E LUCAS YURE (animação em pixelart e um pouco da programação)
+
+ANDRÉ (maior parte da programação e trilha sonora)
+
+LEVI E LUCAS SILVA (maior parte da trilha sonora)
